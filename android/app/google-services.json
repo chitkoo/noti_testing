@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "406077517331",
+    "project_id": "test-noti-77cc5",
+    "storage_bucket": "test-noti-77cc5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:406077517331:android:67a137b397afa00e6399e6",
+        "android_client_info": {
+          "package_name": "com.example.noti_test"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA71Jj8gVGpbjYeAO-J1SGvsLw3JpCZVnM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
